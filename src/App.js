@@ -15,6 +15,7 @@ export default function App() {
   );
 }
 //leptop güncellenmiş hali
+//masaüstü güncellenmiş hali
 const styles = StyleSheet.create({
   container: {
     flex: 1,
